@@ -73,9 +73,8 @@ legend {
     display: flex;
     background-position: 100%;
 }
-.shini{
+.backimage{
     background-image: url(https://th.bing.com/th/id/OIP.fQkp5M8U0qYXYEMWOZwNIwHaDt?rs=1&pid=ImgDetMain);
     background-repeat: no-repeat;
-    background-size: cover;
-    padding:100px;
+    padding-bottom: 100%;
 }

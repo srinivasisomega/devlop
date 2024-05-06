@@ -5,6 +5,7 @@
     <title>cognine</title>
     <link rel="icon" type="image/x-icon" href="D:\html_practice\favicon-32x32.png">
     <link rel="stylesheet" href="D:\html_practice\styles12.css">
+    <script defer src="D:\html_practice\val_scr.js"></script>
 </head>
 
 <body>
@@ -12,25 +13,48 @@
         <img src="https://cognine.com/wp-content/uploads/2022/06/MicrosoftTeams-image-1.png" width="50%">
     </div>
     <nav class="nav">
-        
+
         <ul>
             <li><a href="D:\html_practice\cognine home_page.html">home</a></li>
             <li><a href="D:\html_practice\signin.html">signin</a></li>
         </ul>
     </nav>
-    <form class="formn">
-        <legend>Signup for saving your data on cognine</legend>
-        <label for="username">Username:</label><br>
-        <input type="text" id="username" name="username"><br><br>
-        <label for="email id">email id:</label><br>
-        <input type="text" id="email id" name="email id"><br><br>
-        <label for="profession">profession :</label><br>
-        <input type="text" id="profession" name="profession"><br><br>
-        <label for="password">Password:</label><br>
-        <input type="password" id="password" name="password"><br><br>
-        
-        <input type="submit" value="Submit">
-    </form>
+
+    <div>
+        <form id="signup" class="formn">
+            <h1>Sign Up</h1>
+            <div class="form-field">
+                <label for="username">Username:</label><br>
+                <input type="text" name="username" id="username" autocomplete="off"><br>
+                <small></small><br><br>
+            </div>
+
+            <div class="form-field">
+                <label for="email">Email:</label><br>
+                <input type="text" name="email" id="email" autocomplete="off"><br>
+                <small></small><br><br>
+            </div>
+
+            <div class="form-field">
+                <label for="password">Password:</label><br>
+                <input type="password" name="password" id="password" autocomplete="off"><br>
+                <small></small><br><br>
+            </div>
+
+
+            <div class="form-field">
+                <label for="confirm-password">Confirm Password:</label><br>
+                <input type="password" name="confirm-password" id="confirm-password" autocomplete="off"><br>
+                <small></small><br><br>
+            </div>
+
+            <div class="form-field">
+                <input type="submit" value="Sign Up">
+            </div>
+        </form>
+    </div>
+
+    
 
 </body>
 

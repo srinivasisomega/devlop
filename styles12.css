@@ -1,19 +1,81 @@
 .nav {
-    background-color: black;
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    background-color: brown;
+    
+   
+    
+
 }
 
-ul {
-    float: left;
+.nav ul {
+    color: black;
+    margin-left:1200px;
+    display: flex;
+    margin-top: 0%;
+    padding:10px 10px 10px 10px;
+    border-top: 0%;
+
 }
 
-ul a {
-    display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+.nav ul li {
+    list-style: none;
+    border: 5px;
+    border-color: black;
+
+
+}
+
+.nav ul li a {
+    color: black;
+    font-weight: 400;
+    margin-right: 30px;
+    border-radius: 25px;
+    border: 2px solid black;
+    padding: 3px 3px 3px 3px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 20px;
+
+}
+
+.titl {
+    color: black;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 0px;
+
+}
+
+.formn {
+
+    width: 400px;
+    height: auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-left: 40%;
+    margin-top: 200px;
+
+
+}
+
+h2 {
+    color: black;
+}
+
+legend {
+    margin-right: 20px;
+    font-size: larger;
+}
+
+.imgback{
+    background-color: grey;
+    display: flex;
+    background-position: 100%;
+}
+.shini{
+    background-image: url(https://th.bing.com/th/id/OIP.fQkp5M8U0qYXYEMWOZwNIwHaDt?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:100px;
 }

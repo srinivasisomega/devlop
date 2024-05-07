@@ -61,7 +61,7 @@ const checkPassword = () => {
 
 const checkConfirmPassword = () => {
     let valid = false;
-    // check confirm password
+    
     const confirmPassword = confirmPasswordEl.value.trim();
     const password = passwordEl.value.trim();
 

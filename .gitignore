@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/html_practice/config/applicationhost.config
+*.vsidx
+/.vs/slnx.sqlite

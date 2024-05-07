@@ -10,7 +10,7 @@ const checkUsername = () => {
 
     let valid = false;
 
-    const min = 4,
+    const min = 3,
         max = 25;
 
     const username = usernameEl.value.trim();

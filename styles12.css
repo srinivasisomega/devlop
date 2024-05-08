@@ -70,3 +70,75 @@
         background-size: cover;
     }
 }
+@media screen and (max-width:600px) {
+    .nav {
+        background-color: black;
+    }
+
+        .nav ul {
+            color: black;
+            margin-left: 600px;
+            display: flex;
+            margin-top: 0%;
+            padding: 10px 10px 10px 10px;
+            border-top: 0%;
+        }
+
+            .nav ul li {
+                list-style: none;
+                border: 5px;
+                border-color: black;
+            }
+
+                .nav ul li a {
+                    color: black;
+                    font-weight: 400;
+                    margin-right: 30px;
+                    border-radius: 25px;
+                    border: 2px solid black;
+                    padding: 3px 3px 3px 3px;
+                    text-decoration: none;
+                    font-family: sans-serif;
+                    font-size: 20px;
+                }
+
+    .titl {
+        color: black;
+        font-size: 40px;
+        margin-top: 0px;
+        padding-top: 0px;
+    }
+
+    .formn {
+        width: 400px;
+        height: auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin-left: 40%;
+        margin-top: 200px;
+    }
+
+    h2 {
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    legend {
+        margin-right: 20px;
+        font-size: larger;
+    }
+
+    .imgback {
+        background-color: grey;
+        display: flex;
+        background-position: 100%;
+    }
+
+    .backimage {
+        background-image: url(https://th.bing.com/th/id/OIP.fQkp5M8U0qYXYEMWOZwNIwHaDt?rs=1&pid=ImgDetMain);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

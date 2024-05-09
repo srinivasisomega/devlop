@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "D:\\html_practice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\signin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:signin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\remake cognine.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:remake cognine.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\signin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:signin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\stylesheet2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stylesheet2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\styles12.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:styles12.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\cognine home_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cognine home_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\cognine home_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cognine home_page.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\html_practice\\val_scr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -38,31 +38,53 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "signin.html",
-              "DocumentMoniker": "D:\\html_practice\\signin.html",
-              "RelativeDocumentMoniker": "signin.html",
-              "ToolTip": "D:\\html_practice\\signin.html",
-              "RelativeToolTip": "signin.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "OverriddenGroupName": "",
-              "WhenOpened": "2024-05-07T06:23:22.538Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 5,
+              "Title": "val_scr.js",
+              "DocumentMoniker": "D:\\html_practice\\val_scr.js",
+              "RelativeDocumentMoniker": "val_scr.js",
+              "ToolTip": "D:\\html_practice\\val_scr.js",
+              "RelativeToolTip": "val_scr.js",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-07T06:21:48.378Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "signin.js",
-              "DocumentMoniker": "D:\\html_practice\\signin.js",
-              "RelativeDocumentMoniker": "signin.js",
-              "ToolTip": "D:\\html_practice\\signin.js",
-              "RelativeToolTip": "signin.js",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-07T06:21:59.757Z",
-              "IsPinned": true,
+              "Title": "remake cognine.html",
+              "DocumentMoniker": "D:\\html_practice\\remake cognine.html",
+              "RelativeDocumentMoniker": "remake cognine.html",
+              "ToolTip": "D:\\html_practice\\remake cognine.html",
+              "RelativeToolTip": "remake cognine.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-08T10:31:39.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stylesheet2.css",
+              "DocumentMoniker": "D:\\html_practice\\stylesheet2.css",
+              "RelativeDocumentMoniker": "stylesheet2.css",
+              "ToolTip": "D:\\html_practice\\stylesheet2.css",
+              "RelativeToolTip": "stylesheet2.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-08T10:30:58.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles12.css",
+              "DocumentMoniker": "D:\\html_practice\\styles12.css",
+              "RelativeDocumentMoniker": "styles12.css",
+              "ToolTip": "D:\\html_practice\\styles12.css",
+              "RelativeToolTip": "styles12.css",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAFIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-07T06:21:51.952Z",
               "EditorCaption": ""
             },
             {
@@ -88,51 +110,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "signup.html",
-              "DocumentMoniker": "D:\\html_practice\\signup.html",
-              "RelativeDocumentMoniker": "signup.html",
-              "ToolTip": "D:\\html_practice\\signup.html",
-              "RelativeToolTip": "signup.html",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-07T06:21:57.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "styles12.css",
-              "DocumentMoniker": "D:\\html_practice\\styles12.css",
-              "RelativeDocumentMoniker": "styles12.css",
-              "ToolTip": "D:\\html_practice\\styles12.css",
-              "RelativeToolTip": "styles12.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-07T06:21:51.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "cognine home_page.html",
               "DocumentMoniker": "D:\\html_practice\\cognine home_page.html",
               "RelativeDocumentMoniker": "cognine home_page.html",
               "ToolTip": "D:\\html_practice\\cognine home_page.html",
               "RelativeToolTip": "cognine home_page.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAMAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-05-07T06:21:41.601Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "val_scr.js",
-              "DocumentMoniker": "D:\\html_practice\\val_scr.js",
-              "RelativeDocumentMoniker": "val_scr.js",
-              "ToolTip": "D:\\html_practice\\val_scr.js",
-              "RelativeToolTip": "val_scr.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-07T06:21:48.378Z"
+              "DocumentIndex": 3,
+              "Title": "signup.html",
+              "DocumentMoniker": "D:\\html_practice\\signup.html",
+              "RelativeDocumentMoniker": "signup.html",
+              "ToolTip": "D:\\html_practice\\signup.html",
+              "RelativeToolTip": "signup.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-07T06:21:57.016Z",
+              "EditorCaption": ""
             }
           ]
         }
